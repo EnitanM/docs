@@ -86,7 +86,7 @@ You can make and save changes to the files in your repository. On {% data variab
 
 1. Under the `readme-edits` branch you created, click the _README.md_ file.
 1. To edit the file, click {% octicon "pencil" aria-label="Edit file" %}.
-1. In the editor, write a bit about yourself. Try using different Markdown elements.
+1. In the editor, write a bit about yourself. Try using different lines.
 {% ifversion code-search-code-view %}
 1. Click **Commit changes...**.
 1. In the "Propose changes" box, write a commit message that describes your changes.
